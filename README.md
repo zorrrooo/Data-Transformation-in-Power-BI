@@ -1,4 +1,4 @@
-# Data Transformation in Power BI
+# Data Transformation in Power BI using DAX
 
 ## Data Merging
 ## Replacing values within table cells/ Changing values (names)
