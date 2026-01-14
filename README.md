@@ -10,3 +10,5 @@
 ## Data cleaning - removing duplicates and null values
 ## Adding a new column and inserting values manually
 ## Data Model view
+
+--> The above processes are performed and exhibited in the attached PDF files alongside raw data
